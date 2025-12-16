@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Pagination from "@mui/material/Pagination";
 import Stack from "@mui/material/Stack";
-import BlogData from "../data/BlogData";
+import BlogData from "../Data/BlogData";
 import BlogCard from "../components/BlogCard";
 import CategoryFilter from "../components/CategoryFilter";
 import Sidebar from "../components/Sidebar";
