@@ -1,5 +1,5 @@
 import React from "react";
-import BlogData from "../data/BlogData";
+import BlogData from "../Data/BlogData";
 
 const Sidebar = () => {
   // Sort blogs by date for "Latest" section
